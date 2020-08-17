@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">OURMAD</string>
+    <string name="RequestId">Request ID :-</string>
+    <string name="RequestedBy">Requested By :-</string>
+    <string name="Title"> Title :- </string>
+    <string name="Deadline">Dead Line :-</string>
+    <string name="Contact">Phone :-</string>
+    <string name="status">Status :- </string>
+    <string name="editDetails">Edit Details</string>
+    <string name="CloseRequest">Close Request</string>
+    <string name="Offer">Make An Offer</string>
+    <string name="ContactCus">Contact Customer</string>
+    <string name="msgCus">Message Customer</string>
+    <string name="Assing">Assinged to:- </string>
+    <string name="Brief">Brief Description :-</string>
+    <string name="deadline">Deadline</string>
+
+    <string name="dob">Date of Birth</string>
+    <string name="email">Email Address</string>
+    <string name="gen">Gender</string>
+    <string name="p_num">Phone Number</string>
+    <string name="A_Request">My Active Request</string>
+    <string name="P_Request">Previous Request</string>
+    <string name="Work_Type">Preferred Work Type</string>
+    <string name="S_fee">Average Service Fee</string>
+    <string name="C_num">Contact Number</string>
+    <string name="B_Description">Brief Description</string>
+</resources>
